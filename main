@@ -1,0 +1,47 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <title>Test1</title>
+    
+    <h1><span style="background-color: blueviolet;">HELLOOOOOOOOOOOOO ????????</span></h1>
+    <p><span style="background-color: chartreuse;">FUCKKKKKKKKKKK</span></p>
+
+    <style>
+        body{
+            background-image: url('image1.jpg');
+            background-repeat: no-repeat;
+            background-color: #cccccc;
+            background-size: 90%;
+        }
+
+        li span{
+            background-color: red;
+            color: blue;
+            font-size: large;
+        }
+    </style>
+</head>
+<body>
+    <ol>
+        <li><span>NARUTO</span></li>
+        <li><span>SUS</span></li>
+        <li><span>Sasuke</span></li>
+        <li><span>gay</span></li>
+    </ol>
+    <br>
+
+    <a href="https://www.youtube.com/watch?v=dQw4w9WgXcQ&ab_channel=RickAstley" target="_blank">
+    <button style="font-size: xx-large;">DONT CLICK THIS, Just dont!!!!</button>
+    </a>
+    
+    <br>
+    <img src="NarutoSmith.webp" height="200" width="400" alt="This is NarutoSmith" title="Pain"> 
+    <p>Hello MGA BOBO<p></a>
+    <br>
+    <img src="narutomeme.gif.webp" height="400">
+    <table>
+        <td>DONT DO IT</td>
+        <th>JUST DO IT</th>
+    </table>
+</body>
+</html>
